@@ -8,11 +8,11 @@ Requirements
 6. A contact consists of a first name and a last name
 7. A contact can have multiple contact numbers, email addresses, etc
 
-Setup Instrcutions:
+Setup Instructions:
 
 1. Configure the Base URL "$config['base_url']" in config.php file 
 
-$config['base_url'] = 'http://localhost/realmdigital';
+    $config['base_url'] = 'http://localhost/realmdigital';
 
 2. Configure the hostname, username, password and database at database.php
 
