@@ -1,0 +1,14 @@
+.errors{
+    text-align: center;
+    color: red;
+}
+.mandatory {
+    color: red;
+    font-size: 12px;
+}
+.error{
+    color: red;
+}
+.flash-msg{
+    color: green;
+}
